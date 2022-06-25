@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ui-mktoob/static/css/main.d3a154e6.css",
+    "main.js": "/ui-mktoob/static/js/main.da7ddf3c.js",
+    "static/js/787.00b2463c.chunk.js": "/ui-mktoob/static/js/787.00b2463c.chunk.js",
+    "index.html": "/ui-mktoob/index.html",
+    "main.d3a154e6.css.map": "/ui-mktoob/static/css/main.d3a154e6.css.map",
+    "main.da7ddf3c.js.map": "/ui-mktoob/static/js/main.da7ddf3c.js.map",
+    "787.00b2463c.chunk.js.map": "/ui-mktoob/static/js/787.00b2463c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a154e6.css",
+    "static/js/main.da7ddf3c.js"
+  ]
+}
